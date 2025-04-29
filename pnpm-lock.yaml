@@ -27,8 +27,8 @@ importers:
         specifier: ^6.0.0
         version: 6.21.0(eslint@8.57.1)(typescript@5.8.3)
       amplify-adapter:
-        specifier: 1.0.0-next.1
-        version: 1.0.0-next.1(@sveltejs/kit@2.20.7(@sveltejs/vite-plugin-svelte@3.1.2(svelte@4.2.19)(vite@5.4.18))(svelte@4.2.19)(vite@5.4.18))(typescript@5.8.3)
+        specifier: 1.0.0-next.2
+        version: 1.0.0-next.2(@sveltejs/kit@2.20.7(@sveltejs/vite-plugin-svelte@3.1.2(svelte@4.2.19)(vite@5.4.18))(svelte@4.2.19)(vite@5.4.18))(typescript@5.8.3)
       eslint:
         specifier: ^8.56.0
         version: 8.57.1
@@ -563,8 +563,8 @@ packages:
   ajv@6.12.6:
     resolution: {integrity: sha512-j3fVLgvTo527anyYyJOGTYJbG+vnnQYvE0m5mmkc1TK+nxAppkCLMIL0aZ4dblVCNoGShhm+kzE4ZUykBoMg4g==}
 
-  amplify-adapter@1.0.0-next.1:
-    resolution: {integrity: sha512-D8AK4MkmByr+kmtuUl0sh3/io2tNQOpSjnnetgo9QYd+M2e4kVd4iwgQN0xmnI3N/qzDf8XMm4FzVVyWzTxv1Q==}
+  amplify-adapter@1.0.0-next.2:
+    resolution: {integrity: sha512-fIH2m1YnH+tOWrHv9tjT4YM2fr7iOPoWS6fojYNM2ZL3u45wl91rl9d1Fpvf9X+rCi4KKxoxLLSwiquec4XY8Q==}
     peerDependencies:
       '@sveltejs/kit': ^1.0.0 || ^2.0.0
 
@@ -1763,7 +1763,7 @@ snapshots:
       json-schema-traverse: 0.4.1
       uri-js: 4.4.1
 
-  amplify-adapter@1.0.0-next.1(@sveltejs/kit@2.20.7(@sveltejs/vite-plugin-svelte@3.1.2(svelte@4.2.19)(vite@5.4.18))(svelte@4.2.19)(vite@5.4.18))(typescript@5.8.3):
+  amplify-adapter@1.0.0-next.2(@sveltejs/kit@2.20.7(@sveltejs/vite-plugin-svelte@3.1.2(svelte@4.2.19)(vite@5.4.18))(svelte@4.2.19)(vite@5.4.18))(typescript@5.8.3):
     dependencies:
       '@sveltejs/kit': 2.20.7(@sveltejs/vite-plugin-svelte@3.1.2(svelte@4.2.19)(vite@5.4.18))(svelte@4.2.19)(vite@5.4.18)
       rolldown: 1.0.0-beta.8(typescript@5.8.3)
