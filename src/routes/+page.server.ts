@@ -6,7 +6,7 @@ export const load = (({ setHeaders }) => {
 	// cache-control 15 seconds
 
 	setHeaders({
-		'cache-control': 'public, max-age=15'
+		'cache-control': 'public, max-age=60'
 	});
 
 	return {
